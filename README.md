@@ -1,5 +1,5 @@
 # English Alphabets Prediction Using TensorFlow
-A Model To Predict English Alphabets. Achieved 97.88% Accuracy And 96.90% Validation Accuracy
+A Model To Predict English Alphabets. Achieved 95.96% Accuracy And 92.83% Validation Accuracy
 # Author
 Abhimanyu Sharma, https://github.com/0xN1nja
 # Dataset I Used For This Model
